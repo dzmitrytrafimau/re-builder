@@ -1,0 +1,25 @@
+{
+  "name": "re-builder",
+  "version": "1.0.0",
+  "description": "Sometimes generating regular expression is so painful and also we don't lake to learn this crazy syntax.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "~4.2.0",
+    "mocha": "~6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzmitrytrafimau/re-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzmitrytrafimau/re-builder/issues"
+  },
+  "homepage": "https://github.com/dzmitrytrafimau/re-builder#readme"
+}
